@@ -5,9 +5,12 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"github.com/velopert/gin-rest-api-sample/api"
-	"github.com/velopert/gin-rest-api-sample/database"
-	"github.com/velopert/gin-rest-api-sample/lib/middlewares"
+	//"github.com/velopert/gin-rest-api-sample/api"
+	//"github.com/velopert/gin-rest-api-sample/database"
+	//"github.com/velopert/gin-rest-api-sample/lib/middlewares"
+	"gin-rest-api-sample/api"
+	"gin-rest-api-sample/database"
+	"gin-rest-api-sample/lib/middlewares"
 )
 
 func main() {
