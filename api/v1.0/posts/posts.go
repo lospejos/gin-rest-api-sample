@@ -2,7 +2,8 @@ package posts
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/velopert/gin-rest-api-sample/lib/middlewares"
+	//	"github.com/velopert/gin-rest-api-sample/lib/middlewares"
+	"gin-rest-api-sample/lib/middlewares"
 )
 
 // ApplyRoutes applies router to the gin Engine
